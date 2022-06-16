@@ -1,0 +1,56 @@
+
+
+.topp{
+ float: left;
+ height: 50px;
+ padding: 15px;
+ font-size: 20px;
+ font-weight: bold;
+ color: white;
+}
+
+.row_style{
+    margin-top: 15px;
+}
+
+.form-group{
+    width: 350px;
+    padding-left: 10px;
+}
+
+.text-warning{
+    color: #c9302c;
+}
+
+.header{
+ background-color:#000;
+ color:#fff;
+ border-color: #080808;
+ min-height: 50px;
+ border: 1px solid transparent;
+}
+.inner-header{
+    width:80%;
+ margin:auto;
+}
+
+.logo{
+ float: left;
+ height: 50px;
+ padding: 15px;
+ font-size: 20px;
+ font-weight: bold;
+
+}
+.header-link{
+float:right;
+font-size:14px;
+ height: 50px;
+ padding: 15px 15px;
+ font-size:16px;
+ font-weight: bold;
+ text-decoration: none ;
+ color:white;
+
+}
+
